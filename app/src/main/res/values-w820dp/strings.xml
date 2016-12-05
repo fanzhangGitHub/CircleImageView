@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="base_padding">16dp</dimen>
+    <string name="app_name">CircleImageView Sample</string>
 
 </resources>
